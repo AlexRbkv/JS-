@@ -1,3 +1,3 @@
 # JS-
-Курсы от Mediasoft
+Курсы от Mediasoft </br>
 Рыбаков Александр
